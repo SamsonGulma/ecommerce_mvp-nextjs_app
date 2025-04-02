@@ -1,8 +1,12 @@
+import Link from "next/link"
+
 const Navbar = () => {
     return (
         <nav>
             <div>
-                Navbar
+                <Link href="">
+                    E-Commerce MVP
+                </Link>
             </div>
         </nav>
   )
