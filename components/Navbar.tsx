@@ -4,8 +4,23 @@ const Navbar = () => {
     return (
         <nav>
             <div>
-                <Link href="">
+                <Link href="/">
                     E-Commerce MVP
+                </Link>
+            </div>
+            <div>
+                <Link href="/">
+                    Home
+                </Link>
+            </div>
+            <div>
+                <Link href="/product">
+                    Product
+                </Link>
+            </div>
+            <div>
+                <Link href="/checkout">
+                    Check out
                 </Link>
             </div>
         </nav>
