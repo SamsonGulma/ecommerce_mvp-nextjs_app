@@ -1,3 +1,3 @@
 export default function Checkout() {
-    return <div>products</div>
+    return <div>checkout</div>
 }
